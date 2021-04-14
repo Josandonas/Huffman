@@ -8,5 +8,5 @@
 
 > #### Após compactar gera-se um arquivo com a exntesão " .hx " 
 > 
->> Para descompactar o arquivo texte.hx:
+>> Para descompactar o arquivo teste.hx:
 >> - **./huffman -x teste.hx testao.txt**
