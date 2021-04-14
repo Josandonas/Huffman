@@ -1,4 +1,4 @@
-> #### O código foi desenvolvido na linguagem C
+#### O código foi desenvolvido na linguagem C
 > - Sistema Operacional escolhido foi "Ubuntu".
 >> Para executar necessita-se o comando:
 >> - **-gcc huffman.c**
